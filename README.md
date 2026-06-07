@@ -527,3 +527,5 @@ Generate Reports
 Short Project Description
 
 Inventory Tracker (SQL) is a database management application designed to track products, suppliers, categories, stock-in transactions, and stock-out transactions. The system provides real-time inventory monitoring, low-stock alerts, product management, reporting tools, and inventory valuation features using SQL-based relational database architecture, making it suitable for retail stores, warehouses, and small business inventory management.
+
+<img width="1536" height="1024" alt="5" src="https://github.com/user-attachments/assets/3f3907b2-e59c-4429-a8e9-c75db67846a3" />
